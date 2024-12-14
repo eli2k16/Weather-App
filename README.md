@@ -1,6 +1,7 @@
-# weatherapp
+# Weatherly
 
-A new Flutter project.
+Our Weather App for project 2
+youtube link - 
 
 ## Getting Started
 

@@ -1,7 +1,9 @@
 # Weatherly
 
 Our Weather App for project 2
-youtube link - 
+
+
+youtube link - https://youtu.be/F4rTA9fOPt4
 
 ## Getting Started
 
